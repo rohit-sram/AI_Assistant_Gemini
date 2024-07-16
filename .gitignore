@@ -156,8 +156,9 @@ cython_debug/
 
 # PROJECT FILES/FOLDERS
 tf_setup/
-/Users/rohitsriram/Documents/ML-Develop/projects/Gemini/gemini_chatbot/FAFO/
+./FAFO/
 personal_config.json
+
 
 
 # PyCharm
